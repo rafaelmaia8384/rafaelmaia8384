@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Servidor Público atuando como Dev<br>👯 Colaborando com a segurança pública  <br>🤝 Precisando de ajuda em fazer networking<br>🌱 Atualmente aprendendo a gerenciar meu tempo<br>💬 Pergunte-me qualquer coisa sobre Flutter<br>⚡ Fun fact: Iniciei em 1999 com mIRC scripting
+🔭 Servidor Público atuando como Dev<br>🔒 Colaborando com a segurança pública  <br>🤝 Precisando de ajuda em fazer networking<br>🌱 Atualmente aprendendo a gerenciar meu tempo<br>💬 Pergunte-me qualquer coisa sobre Flutter<br>⚡ Fun fact: Iniciei em 1999 com mIRC scripting
 
 
 ## 🌐 Socials:
